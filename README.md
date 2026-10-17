@@ -46,6 +46,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`walking-tour-4k` · `first-person-travel` · `city-walking-videos` · `travel-explorer` · `interactive-travel-map` · `tokyo-walking-tour` · `leaflet-travel-map` · `plan-with-ai` · `travel-vlog-curation`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -63,3 +67,6 @@
 4. **AI 智能行程一键导出**：一键将收藏的沿途兴趣点打包为结构化 Brief，直接喂给 ChatGPT、Gemini 或 Claude 生成旅行计划。
 
 🌐 **立即在线体验**：[**https://travel.ailatest.org/**](https://travel.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`第一视角漫步` · `4K城市行走` · `实景漫游` · `沉浸式街景` · `东京漫步` · `旅行视频地图` · `交互式旅行攻略` · `AI旅行规划` · `出国旅游真实视频` · `Citywalk路线`
