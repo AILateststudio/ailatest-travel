@@ -1,47 +1,65 @@
-# AILatest Travel World · 城市旅行 🗺️
+<a id="top"></a>
+<p align="right">
+  <b>English</b> | <a href="#chinese"><b>中文说明</b></a>
+</p>
+
+# AILatest Travel World · First-Person 4K City Walking Explorer 🗺️
 
 <p align="center">
-  <b>沉浸式探索全球 25+ 热门城市，精选真实 4K 第一视角旅行漫游视频、地标打卡路线与出行指南。</b><br>
-  拒绝精修千篇一律的滤镜图文，用脚步和双眼感受真实的世界脉搏。
+  <b>See how real travelers navigate cities before deciding where to go.</b><br>
+  城市旅行 · 4K 第一视角实景漫游。精选全球 25+ 热门城市 125 条长镜头漫步实况，联动高精度交互地图与 AI 行程规划。
 </p>
 
 <p align="center">
-  <a href="https://travel.ailatest.org/"><img src="https://img.shields.io/badge/立即探索-travel.ailatest.org-2f7f96?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://ailatest.org/projects/travel/"><img src="https://img.shields.io/badge/产品介绍页-Travel-blue?style=for-the-badge" alt="Studio"></a>
+  <a href="https://travel.ailatest.org/"><img src="https://img.shields.io/badge/Live_App-travel.ailatest.org-059669?style=for-the-badge&logo=cloudflare" alt="Live App"></a>
+  <img src="https://img.shields.io/badge/Cities_Covered-25_Global_Metropolises-blue?style=for-the-badge" alt="Cities">
+  <img src="https://img.shields.io/badge/Video_Library-125_Curated_4K_Walks-red?style=for-the-badge" alt="Videos">
+  <img src="https://img.shields.io/badge/Interactive_Map-Leaflet_%26_OSM-green?style=for-the-badge" alt="Map">
 </p>
 
 ---
 
-## 🖼 视觉预览 · Visual Overview
+## 🖼 Visual Showcase
 
-### 1. 官方封面插画
+### 1. Official Cover Art
+<p align="center">
+  <img src="assets/covers/travel.webp" alt="AILatest Travel World Cover Art" width="860">
+</p>
+
+### 2. Live Application Interface
 <p align="center">
   <a href="https://travel.ailatest.org/">
-    <img src="assets/covers/travel.webp" alt="Travel 官方封面插画" width="920">
+    <img src="assets/screenshots/preview.png" alt="AILatest Travel World Live Interface" width="920">
   </a>
 </p>
-
-### 2. 真实在线漫游界面截图 (Live Application Interface)
-<p align="center">
-  <a href="https://travel.ailatest.org/">
-    <img src="assets/screenshots/preview.png" alt="Travel 真实在线漫游界面截图" width="920">
-  </a>
-</p>
-<p align="center"><em>界面截图截取自线上站点 <a href="https://travel.ailatest.org/">travel.ailatest.org</a>。</em></p>
+<p align="center"><em>Live screenshot captured from production: <a href="https://travel.ailatest.org/">travel.ailatest.org</a>.</em></p>
 
 ---
 
-## 🌟 核心特色
+## 🌟 Key Features
 
-- **全球 25+ 座代表性城市**：
-  - 亚洲：东京、京都、首尔、新加坡、曼谷、香港、上海、北京、成都、杭州、张家界等；
-  - 欧洲：巴黎、伦敦、罗马、巴塞罗那、雷克雅未克、佛罗伦萨、布拉格等；
-  - 美洲与大洋洲：纽约、旧金山、悉尼等。
-- **4K 第一视角实景漫游 (Walking Tour Experience)**：精选长镜头不间断行走记录，沉浸式体会当地街道的市井烟火与声音景观。
-- **精选打卡节点与行程路线推荐**：标注各城市标志性历史遗迹、小众街区、必尝美食与咖啡馆推荐。
+1. **Global City Coverage**: Spans 25 metropolises across Asia, Europe, the Middle East, North America, and Oceania (Tokyo, Seoul, London, Paris, New York, etc.).
+2. **125 Long-Take 4K Walking Videos**: Curated from verified creators (e.g. *Abroad in Japan*, *Paolo fromTOKYO*), capturing real street atmospheres, ambient sounds, and local transit.
+3. **Synchronized Chapter Map Markers**: Every video chapter (e.g. *Shibuya Scramble Crossing*, *Sensō-ji Temple*, *Akihabara Electric Town*) is geocoded onto an interactive Leaflet/OpenStreetMap.
+4. **"Plan with AI" Trip Brief Export**: One-click prompt generation formatting your saved spots into structured itinerary briefs for ChatGPT, Gemini, or Claude.
+5. **"My Trip" Saved Spots Drawer**: Save spots while watching to compile your personal custom travel itinerary.
 
 ---
 
-## 🌐 开启您的环球旅行
+<a id="chinese"></a>
+<p align="right">
+  <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
+</p>
 
-立即在线漫游：[**https://travel.ailatest.org/**](https://travel.ailatest.org/)\n
+## 🇨🇳 中文介绍 · AILatest Travel World
+
+### 为什么需要 Travel World？
+传统旅游攻略充满过度滤镜与商业摆拍，很难反映目的地真实的街道风貌、人流密集度与步行动线。
+
+**Travel World 坚持“先看真实的人怎么走，再决定自己去哪”**：
+1. **覆盖全球 25 座热门旅游城市**：横跨亚洲、欧洲、中东、北美与大洋洲。
+2. **125 条精选 4K 第一视角真实漫步视频**：保留原作者信息、高清播放入口与原声音频，还原真实街巷体感。
+3. **视频章节与地图坐标精准绑定**：点击视频右侧的参观点章节（如涩谷十字路口、浅草寺、秋叶原），右侧交互式地图即刻居中对应地标坐标。
+4. **AI 智能行程一键导出**：一键将收藏的沿途兴趣点打包为结构化 Brief，直接喂给 ChatGPT、Gemini 或 Claude 生成旅行计划。
+
+🌐 **立即在线体验**：[**https://travel.ailatest.org/**](https://travel.ailatest.org/)
